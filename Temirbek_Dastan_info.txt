@@ -1,0 +1,6 @@
+
+Name: Dastan
+Surname: Temirbek
+Group: IT2-2308
+Student ID: 37621
+Course: DevOps
