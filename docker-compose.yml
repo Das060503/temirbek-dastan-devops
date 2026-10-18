@@ -1,0 +1,12 @@
+services:
+  app:
+    image: temirbek-dastan-devops
+    build: .
+    container_name: temirbek-dastan-container
+    ports:
+      - "8080:8080"
+    environment:
+      STUDENT_NAME: Dastan
+      STUDENT_SURNAME: Temirbek
+      STUDENT_GROUP: IT2-2308
+      STUDENT_ID: 37621
